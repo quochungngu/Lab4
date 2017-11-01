@@ -2,7 +2,7 @@ package pkgCore;
 
 import java.util.UUID;
 
-public class Player {
+public class Player extends Table{
 
 	private UUID PlayerID;
 	private String PlayerName;
